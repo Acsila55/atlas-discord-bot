@@ -17,17 +17,24 @@ nev megvaltoztato
 GEMINI kerdezo(ha lehet ingyen)
 
 LOL:
-rank_checker solo/duo flex
-profile stats checker
-champ counters
-champ build
-champ runes
-5v5 team randomizer
+api:
+    profile checker
+    live game checker
+    history checker
+    
+
+op.gg scraper:
+    champ counters
+    champ build
+    champ runes
+
+discord related:
+    discord to riot accoutnt linker
+    5v5 team randomizer
 
 KOMPLEX
 media player
 soundboard palayer
-
 
 
 lolwatcher:
