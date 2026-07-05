@@ -1,0 +1,9 @@
+# Compiled python files
+__pycache__
+*.pyc
+*/__pycache__/*
+
+.env
+.git
+
+module/lol_module/lol_database.json

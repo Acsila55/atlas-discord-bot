@@ -4,38 +4,51 @@
         "tag": "EUNE",
         "region": "eun1",
         "puuid": "Xj44AxeZhyjTGD8MG1yALB2Qxmg_jU8q-a7odrutjViW5p5igvt4AjJX0I3Hgdoe9TtHl3iYiff9DA",
-        "summoner_level": 285,
+        "summoner_level": 287,
         "summoner_icon": 4065,
-        "revision_date": 1783007524000,
+        "revision_date": 1783281418532,
         "ranks": [
             {
-                "queueType": "RANKED_SOLO_5x5",
-                "tier": "EMERALD",
-                "rank": "III",
+                "queueType": "RANKED_FLEX_SR",
+                "tier": "PLATINUM",
+                "rank": "IV",
                 "puuid": "Xj44AxeZhyjTGD8MG1yALB2Qxmg_jU8q-a7odrutjViW5p5igvt4AjJX0I3Hgdoe9TtHl3iYiff9DA",
-                "leaguePoints": 32,
-                "wins": 107,
-                "losses": 86,
+                "leaguePoints": 50,
+                "wins": 237,
+                "losses": 239,
                 "veteran": false,
                 "inactive": false,
                 "freshBlood": false,
                 "hotStreak": false
             },
             {
-                "queueType": "RANKED_FLEX_SR",
-                "tier": "PLATINUM",
+                "queueType": "RANKED_SOLO_5x5",
+                "tier": "EMERALD",
                 "rank": "III",
                 "puuid": "Xj44AxeZhyjTGD8MG1yALB2Qxmg_jU8q-a7odrutjViW5p5igvt4AjJX0I3Hgdoe9TtHl3iYiff9DA",
-                "leaguePoints": 16,
-                "wins": 234,
-                "losses": 233,
+                "leaguePoints": 11,
+                "wins": 107,
+                "losses": 87,
                 "veteran": false,
                 "inactive": false,
                 "freshBlood": false,
                 "hotStreak": false
+            },
+            {
+                "queueType": "RANKED_PREMADE_5x5",
+                "tier": "GOLD",
+                "rank": "I",
+                "puuid": "Xj44AxeZhyjTGD8MG1yALB2Qxmg_jU8q-a7odrutjViW5p5igvt4AjJX0I3Hgdoe9TtHl3iYiff9DA",
+                "leaguePoints": 25,
+                "wins": 3,
+                "losses": 2,
+                "veteran": false,
+                "inactive": false,
+                "freshBlood": true,
+                "hotStreak": false
             }
         ],
-        "mastery_score": 646,
+        "mastery_score": 650,
         "champion_mastery": [
             {
                 "puuid": "Xj44AxeZhyjTGD8MG1yALB2Qxmg_jU8q-a7odrutjViW5p5igvt4AjJX0I3Hgdoe9TtHl3iYiff9DA",
@@ -61,15 +74,15 @@
                 "puuid": "Xj44AxeZhyjTGD8MG1yALB2Qxmg_jU8q-a7odrutjViW5p5igvt4AjJX0I3Hgdoe9TtHl3iYiff9DA",
                 "championId": 234,
                 "championLevel": 18,
-                "championPoints": 171063,
-                "lastPlayTime": 1781282952000,
-                "championPointsSinceLastLevel": 7463,
-                "championPointsUntilNextLevel": 3537,
+                "championPoints": 172767,
+                "lastPlayTime": 1783260541000,
+                "championPointsSinceLastLevel": 9167,
+                "championPointsUntilNextLevel": 1833,
                 "markRequiredForNextLevel": 2,
-                "tokensEarned": 15,
-                "championSeasonMilestone": 0,
+                "tokensEarned": 16,
+                "championSeasonMilestone": 1,
                 "milestoneGrades": [
-                    "B"
+                    "B+"
                 ],
                 "nextSeasonMilestone": {
                     "requireGradeCounts": {
@@ -84,14 +97,16 @@
                 "puuid": "Xj44AxeZhyjTGD8MG1yALB2Qxmg_jU8q-a7odrutjViW5p5igvt4AjJX0I3Hgdoe9TtHl3iYiff9DA",
                 "championId": 154,
                 "championLevel": 18,
-                "championPoints": 165084,
-                "lastPlayTime": 1783000531000,
-                "championPointsSinceLastLevel": 1484,
-                "championPointsUntilNextLevel": 9516,
+                "championPoints": 166171,
+                "lastPlayTime": 1783126414000,
+                "championPointsSinceLastLevel": 2571,
+                "championPointsUntilNextLevel": 8429,
                 "markRequiredForNextLevel": 2,
                 "tokensEarned": 26,
                 "championSeasonMilestone": 6,
-                "milestoneGrades": [],
+                "milestoneGrades": [
+                    "B+"
+                ],
                 "nextSeasonMilestone": {
                     "requireGradeCounts": {
                         "S-": 2
@@ -148,18 +163,18 @@
         "tag": "EUNE",
         "region": "eun1",
         "puuid": "o5GE1K4z9aqeZOnIJPYiilZDkQAcWvo1p-DHCS2Yi51U3sv6JxelP1uIdWQTybwM6qyRPYfmQbBcQA",
-        "summoner_level": 350,
+        "summoner_level": 352,
         "summoner_icon": 4499,
-        "revision_date": 1783007524000,
+        "revision_date": 1783281418532,
         "ranks": [
             {
                 "queueType": "RANKED_FLEX_SR",
                 "tier": "PLATINUM",
                 "rank": "III",
                 "puuid": "o5GE1K4z9aqeZOnIJPYiilZDkQAcWvo1p-DHCS2Yi51U3sv6JxelP1uIdWQTybwM6qyRPYfmQbBcQA",
-                "leaguePoints": 37,
-                "wins": 124,
-                "losses": 108,
+                "leaguePoints": 27,
+                "wins": 127,
+                "losses": 112,
                 "veteran": false,
                 "inactive": false,
                 "freshBlood": false,
@@ -168,10 +183,10 @@
             {
                 "queueType": "RANKED_SOLO_5x5",
                 "tier": "GOLD",
-                "rank": "II",
+                "rank": "I",
                 "puuid": "o5GE1K4z9aqeZOnIJPYiilZDkQAcWvo1p-DHCS2Yi51U3sv6JxelP1uIdWQTybwM6qyRPYfmQbBcQA",
-                "leaguePoints": 87,
-                "wins": 32,
+                "leaguePoints": 43,
+                "wins": 34,
                 "losses": 16,
                 "veteran": false,
                 "inactive": false,
@@ -179,22 +194,20 @@
                 "hotStreak": true
             }
         ],
-        "mastery_score": 661,
+        "mastery_score": 663,
         "champion_mastery": [
             {
                 "puuid": "o5GE1K4z9aqeZOnIJPYiilZDkQAcWvo1p-DHCS2Yi51U3sv6JxelP1uIdWQTybwM6qyRPYfmQbBcQA",
                 "championId": 103,
-                "championLevel": 13,
-                "championPoints": 115674,
-                "lastPlayTime": 1783000531000,
-                "championPointsSinceLastLevel": 7074,
-                "championPointsUntilNextLevel": 3926,
+                "championLevel": 14,
+                "championPoints": 119787,
+                "lastPlayTime": 1783246580000,
+                "championPointsSinceLastLevel": 187,
+                "championPointsUntilNextLevel": 10813,
                 "markRequiredForNextLevel": 2,
-                "tokensEarned": 18,
-                "championSeasonMilestone": 5,
+                "tokensEarned": 17,
+                "championSeasonMilestone": 6,
                 "milestoneGrades": [
-                    "C+",
-                    "C+",
                     "S+"
                 ],
                 "nextSeasonMilestone": {
@@ -210,13 +223,14 @@
                 "puuid": "o5GE1K4z9aqeZOnIJPYiilZDkQAcWvo1p-DHCS2Yi51U3sv6JxelP1uIdWQTybwM6qyRPYfmQbBcQA",
                 "championId": 134,
                 "championLevel": 13,
-                "championPoints": 111136,
-                "lastPlayTime": 1779751965000,
-                "championPointsSinceLastLevel": 2536,
-                "championPointsUntilNextLevel": 8464,
+                "championPoints": 112919,
+                "lastPlayTime": 1783244033000,
+                "championPointsSinceLastLevel": 4319,
+                "championPointsUntilNextLevel": 6681,
                 "markRequiredForNextLevel": 2,
-                "tokensEarned": 9,
-                "championSeasonMilestone": 0,
+                "tokensEarned": 10,
+                "championSeasonMilestone": 1,
+                "milestoneGrades": [],
                 "nextSeasonMilestone": {
                     "requireGradeCounts": {
                         "A-": 1
@@ -298,16 +312,16 @@
         "puuid": "CSH_R9c-qpP3rCJYkpvd1NYPpj715akXbWke1V0veeJtq2vbaBU66hQpW6-W01AeZ0UX06rhKVBvRQ",
         "summoner_level": 1023,
         "summoner_icon": 508,
-        "revision_date": 1782952930000,
+        "revision_date": 1783128287000,
         "ranks": [
             {
                 "queueType": "RANKED_FLEX_SR",
                 "tier": "DIAMOND",
                 "rank": "IV",
                 "puuid": "CSH_R9c-qpP3rCJYkpvd1NYPpj715akXbWke1V0veeJtq2vbaBU66hQpW6-W01AeZ0UX06rhKVBvRQ",
-                "leaguePoints": 62,
+                "leaguePoints": 22,
                 "wins": 162,
-                "losses": 165,
+                "losses": 167,
                 "veteran": false,
                 "inactive": false,
                 "freshBlood": false,
@@ -377,14 +391,16 @@
                 "puuid": "CSH_R9c-qpP3rCJYkpvd1NYPpj715akXbWke1V0veeJtq2vbaBU66hQpW6-W01AeZ0UX06rhKVBvRQ",
                 "championId": 555,
                 "championLevel": 80,
-                "championPoints": 853307,
-                "lastPlayTime": 1782258954000,
-                "championPointsSinceLastLevel": 7707,
-                "championPointsUntilNextLevel": 3293,
+                "championPoints": 854130,
+                "lastPlayTime": 1783123330000,
+                "championPointsSinceLastLevel": 8530,
+                "championPointsUntilNextLevel": 2470,
                 "markRequiredForNextLevel": 2,
                 "tokensEarned": 34,
                 "championSeasonMilestone": 4,
-                "milestoneGrades": [],
+                "milestoneGrades": [
+                    "S"
+                ],
                 "nextSeasonMilestone": {
                     "requireGradeCounts": {
                         "S-": 2
@@ -443,25 +459,25 @@
         "tag": "4920",
         "region": "eun1",
         "puuid": "HmbMjoN1NALVxbk9KxL6ojUq1Xiay7iBUs2OgYNNCZ6sdY_Ja1CbyRR7IbGeylrwBdSF80NNBoyvsQ",
-        "summoner_level": 176,
+        "summoner_level": 178,
         "summoner_icon": 7,
-        "revision_date": 1783007524000,
+        "revision_date": 1783277656457,
         "ranks": [
             {
                 "queueType": "RANKED_FLEX_SR",
                 "tier": "IRON",
                 "rank": "IV",
                 "puuid": "HmbMjoN1NALVxbk9KxL6ojUq1Xiay7iBUs2OgYNNCZ6sdY_Ja1CbyRR7IbGeylrwBdSF80NNBoyvsQ",
-                "leaguePoints": 40,
-                "wins": 106,
-                "losses": 147,
+                "leaguePoints": 20,
+                "wins": 108,
+                "losses": 151,
                 "veteran": false,
                 "inactive": false,
                 "freshBlood": false,
                 "hotStreak": false
             }
         ],
-        "mastery_score": 433,
+        "mastery_score": 437,
         "champion_mastery": [
             {
                 "puuid": "HmbMjoN1NALVxbk9KxL6ojUq1Xiay7iBUs2OgYNNCZ6sdY_Ja1CbyRR7IbGeylrwBdSF80NNBoyvsQ",
@@ -582,7 +598,7 @@
         "puuid": "l6GYssdGD-xzfzztp6xt25ALp6pdULW5Dc9tC_Jp8qbCXlEGy6MZMfDdNhdssZcAspPG_5Sq8Ky9EQ",
         "summoner_level": 113,
         "summoner_icon": 7154,
-        "revision_date": 1782956743000,
+        "revision_date": 1783281418532,
         "ranks": [
             {
                 "queueType": "RANKED_SOLO_5x5",
@@ -729,50 +745,50 @@
         "tag": "EUNE",
         "region": "eun1",
         "puuid": "NJibyxMQi2QJBjOfi7VjHLhTAon__64fo1e_AzBF17ns1LOEgLYZ_1u4FhCSUQPNjOy3eyF_e2E9ww",
-        "summoner_level": 351,
+        "summoner_level": 353,
         "summoner_icon": 6301,
-        "revision_date": 1783021106357,
+        "revision_date": 1783281418532,
         "ranks": [
             {
-                "queueType": "RANKED_FLEX_SR",
+                "queueType": "RANKED_SOLO_5x5",
                 "tier": "SILVER",
                 "rank": "II",
                 "puuid": "NJibyxMQi2QJBjOfi7VjHLhTAon__64fo1e_AzBF17ns1LOEgLYZ_1u4FhCSUQPNjOy3eyF_e2E9ww",
-                "leaguePoints": 42,
-                "wins": 183,
-                "losses": 191,
+                "leaguePoints": 47,
+                "wins": 190,
+                "losses": 194,
                 "veteran": false,
                 "inactive": false,
                 "freshBlood": false,
                 "hotStreak": false
             },
             {
-                "queueType": "RANKED_SOLO_5x5",
+                "queueType": "RANKED_FLEX_SR",
                 "tier": "SILVER",
-                "rank": "II",
+                "rank": "III",
                 "puuid": "NJibyxMQi2QJBjOfi7VjHLhTAon__64fo1e_AzBF17ns1LOEgLYZ_1u4FhCSUQPNjOy3eyF_e2E9ww",
-                "leaguePoints": 30,
-                "wins": 188,
-                "losses": 193,
+                "leaguePoints": 28,
+                "wins": 185,
+                "losses": 198,
                 "veteran": false,
                 "inactive": false,
                 "freshBlood": false,
                 "hotStreak": false
             }
         ],
-        "mastery_score": 671,
+        "mastery_score": 673,
         "champion_mastery": [
             {
                 "puuid": "NJibyxMQi2QJBjOfi7VjHLhTAon__64fo1e_AzBF17ns1LOEgLYZ_1u4FhCSUQPNjOy3eyF_e2E9ww",
                 "championId": 50,
                 "championLevel": 29,
-                "championPoints": 292393,
-                "lastPlayTime": 1782132696000,
-                "championPointsSinceLastLevel": 7793,
-                "championPointsUntilNextLevel": 3207,
+                "championPoints": 293681,
+                "lastPlayTime": 1783075370000,
+                "championPointsSinceLastLevel": 9081,
+                "championPointsUntilNextLevel": 1919,
                 "markRequiredForNextLevel": 2,
-                "tokensEarned": 21,
-                "championSeasonMilestone": 2,
+                "tokensEarned": 23,
+                "championSeasonMilestone": 3,
                 "milestoneGrades": [],
                 "nextSeasonMilestone": {
                     "requireGradeCounts": {
@@ -813,15 +829,17 @@
                 "puuid": "NJibyxMQi2QJBjOfi7VjHLhTAon__64fo1e_AzBF17ns1LOEgLYZ_1u4FhCSUQPNjOy3eyF_e2E9ww",
                 "championId": 555,
                 "championLevel": 17,
-                "championPoints": 159442,
-                "lastPlayTime": 1783003080000,
-                "championPointsSinceLastLevel": 6842,
-                "championPointsUntilNextLevel": 4158,
+                "championPoints": 161117,
+                "lastPlayTime": 1783126414000,
+                "championPointsSinceLastLevel": 8517,
+                "championPointsUntilNextLevel": 2483,
                 "markRequiredForNextLevel": 2,
                 "tokensEarned": 26,
                 "championSeasonMilestone": 3,
                 "milestoneGrades": [
-                    "A+"
+                    "A+",
+                    "C",
+                    "B+"
                 ],
                 "nextSeasonMilestone": {
                     "requireGradeCounts": {
@@ -1040,10 +1058,23 @@
         "tag": "EUNE",
         "region": "eun1",
         "puuid": "-24pNj4RKlqu38CbsWALjpCGgrK4zGEYRqmbJvWRVhEUaubQ9tIfoapLPnmnU0bRfBZIVa3m4MtnWw",
-        "summoner_level": 320,
+        "summoner_level": 321,
         "summoner_icon": 6921,
-        "revision_date": 1782952930000,
+        "revision_date": 1783128287000,
         "ranks": [
+            {
+                "queueType": "RANKED_FLEX_SR",
+                "tier": "PLATINUM",
+                "rank": "IV",
+                "puuid": "-24pNj4RKlqu38CbsWALjpCGgrK4zGEYRqmbJvWRVhEUaubQ9tIfoapLPnmnU0bRfBZIVa3m4MtnWw",
+                "leaguePoints": 5,
+                "wins": 80,
+                "losses": 78,
+                "veteran": false,
+                "inactive": false,
+                "freshBlood": false,
+                "hotStreak": false
+            },
             {
                 "queueType": "RANKED_SOLO_5x5",
                 "tier": "SILVER",
@@ -1052,19 +1083,6 @@
                 "leaguePoints": 34,
                 "wins": 10,
                 "losses": 14,
-                "veteran": false,
-                "inactive": false,
-                "freshBlood": false,
-                "hotStreak": false
-            },
-            {
-                "queueType": "RANKED_FLEX_SR",
-                "tier": "PLATINUM",
-                "rank": "IV",
-                "puuid": "-24pNj4RKlqu38CbsWALjpCGgrK4zGEYRqmbJvWRVhEUaubQ9tIfoapLPnmnU0bRfBZIVa3m4MtnWw",
-                "leaguePoints": 42,
-                "wins": 80,
-                "losses": 76,
                 "veteran": false,
                 "inactive": false,
                 "freshBlood": false,
@@ -1160,15 +1178,16 @@
                 "puuid": "-24pNj4RKlqu38CbsWALjpCGgrK4zGEYRqmbJvWRVhEUaubQ9tIfoapLPnmnU0bRfBZIVa3m4MtnWw",
                 "championId": 30,
                 "championLevel": 12,
-                "championPoints": 101603,
-                "lastPlayTime": 1782947550000,
-                "championPointsSinceLastLevel": 4003,
-                "championPointsUntilNextLevel": 6997,
+                "championPoints": 102257,
+                "lastPlayTime": 1783128287000,
+                "championPointsSinceLastLevel": 4657,
+                "championPointsUntilNextLevel": 6343,
                 "markRequiredForNextLevel": 2,
                 "tokensEarned": 5,
                 "championSeasonMilestone": 0,
                 "milestoneGrades": [
-                    "D"
+                    "D",
+                    "B"
                 ],
                 "nextSeasonMilestone": {
                     "requireGradeCounts": {
@@ -1186,52 +1205,54 @@
         "tag": "EUNE",
         "region": "eun1",
         "puuid": "9xQ5leQ2mKjLUCHCsZSxLVv3XiesJyUIybCRibBD6EHG3E011NBrIqwpVQxaADLqYNwZZvF4mralMg",
-        "summoner_level": 248,
-        "summoner_icon": 6921,
-        "revision_date": 1783021106357,
+        "summoner_level": 250,
+        "summoner_icon": 4406,
+        "revision_date": 1783265735136,
         "ranks": [
             {
                 "queueType": "RANKED_SOLO_5x5",
                 "tier": "SILVER",
-                "rank": "III",
+                "rank": "I",
                 "puuid": "9xQ5leQ2mKjLUCHCsZSxLVv3XiesJyUIybCRibBD6EHG3E011NBrIqwpVQxaADLqYNwZZvF4mralMg",
-                "leaguePoints": 62,
-                "wins": 27,
-                "losses": 18,
+                "leaguePoints": 22,
+                "wins": 33,
+                "losses": 19,
                 "veteran": false,
                 "inactive": false,
-                "freshBlood": true,
+                "freshBlood": false,
                 "hotStreak": false
             },
             {
                 "queueType": "RANKED_FLEX_SR",
                 "tier": "SILVER",
-                "rank": "I",
+                "rank": "II",
                 "puuid": "9xQ5leQ2mKjLUCHCsZSxLVv3XiesJyUIybCRibBD6EHG3E011NBrIqwpVQxaADLqYNwZZvF4mralMg",
-                "leaguePoints": 9,
-                "wins": 44,
-                "losses": 34,
+                "leaguePoints": 59,
+                "wins": 48,
+                "losses": 41,
                 "veteran": false,
                 "inactive": false,
                 "freshBlood": false,
                 "hotStreak": false
             }
         ],
-        "mastery_score": 457,
+        "mastery_score": 463,
         "champion_mastery": [
             {
                 "puuid": "9xQ5leQ2mKjLUCHCsZSxLVv3XiesJyUIybCRibBD6EHG3E011NBrIqwpVQxaADLqYNwZZvF4mralMg",
                 "championId": 238,
                 "championLevel": 24,
-                "championPoints": 232379,
-                "lastPlayTime": 1782728283000,
-                "championPointsSinceLastLevel": 2779,
-                "championPointsUntilNextLevel": 8221,
+                "championPoints": 235267,
+                "lastPlayTime": 1783265736000,
+                "championPointsSinceLastLevel": 5667,
+                "championPointsUntilNextLevel": 5333,
                 "markRequiredForNextLevel": 2,
                 "tokensEarned": 4,
                 "championSeasonMilestone": 2,
                 "milestoneGrades": [
-                    "A"
+                    "A",
+                    "C",
+                    "B+"
                 ],
                 "nextSeasonMilestone": {
                     "requireGradeCounts": {
@@ -1246,14 +1267,16 @@
                 "puuid": "9xQ5leQ2mKjLUCHCsZSxLVv3XiesJyUIybCRibBD6EHG3E011NBrIqwpVQxaADLqYNwZZvF4mralMg",
                 "championId": 84,
                 "championLevel": 11,
-                "championPoints": 87007,
-                "lastPlayTime": 1783005060000,
-                "championPointsSinceLastLevel": 407,
-                "championPointsUntilNextLevel": 10593,
+                "championPoints": 88375,
+                "lastPlayTime": 1783093358000,
+                "championPointsSinceLastLevel": 1775,
+                "championPointsUntilNextLevel": 9225,
                 "markRequiredForNextLevel": 2,
                 "tokensEarned": 9,
                 "championSeasonMilestone": 4,
-                "milestoneGrades": [],
+                "milestoneGrades": [
+                    "A+"
+                ],
                 "nextSeasonMilestone": {
                     "requireGradeCounts": {
                         "S-": 2
@@ -1266,17 +1289,15 @@
             {
                 "puuid": "9xQ5leQ2mKjLUCHCsZSxLVv3XiesJyUIybCRibBD6EHG3E011NBrIqwpVQxaADLqYNwZZvF4mralMg",
                 "championId": 35,
-                "championLevel": 10,
-                "championPoints": 86268,
-                "lastPlayTime": 1782759122000,
-                "championPointsSinceLastLevel": 10668,
-                "championPointsUntilNextLevel": 332,
+                "championLevel": 11,
+                "championPoints": 87922,
+                "lastPlayTime": 1783206233000,
+                "championPointsSinceLastLevel": 1322,
+                "championPointsUntilNextLevel": 9678,
                 "markRequiredForNextLevel": 2,
                 "tokensEarned": 13,
-                "championSeasonMilestone": 2,
-                "milestoneGrades": [
-                    "A+"
-                ],
+                "championSeasonMilestone": 3,
+                "milestoneGrades": [],
                 "nextSeasonMilestone": {
                     "requireGradeCounts": {
                         "S-": 1
