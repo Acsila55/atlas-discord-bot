@@ -22,7 +22,6 @@ api:
     live game checker
     history checker
     
-
 op.gg scraper:
     champ counters
     champ build
@@ -36,24 +35,5 @@ KOMPLEX
 media player
 soundboard palayer
 
-
-lolwatcher:
-account
-by_riot_id(region: str, game_name: str, tag_line: str)
-by_puuid(region: str, puuid: str)
-active_shard(region: str, game: str, puuid: str)
-
-summoner
-league
-match
-spectator
-
-data_dragon 
-champions(version: str, full: bool = False, locale: str = None)
-items(version: str, locale: str = None)
-summoner_spells(version: str, locale: str = None)
-runes_reforged(version: str, locale: str = None)
-profile_icons(version: str, locale: str = None)
-maps(version: str, locale: str = None)
 
 
