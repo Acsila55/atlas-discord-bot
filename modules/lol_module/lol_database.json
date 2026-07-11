@@ -8,6 +8,15 @@
         "summoner_icon": 7143,
         "ranks": [
             {
+                "queueType": "RANKED_FLEX_SR",
+                "tier": "PLATINUM",
+                "rank": "IV",
+                "leaguePoints": 48,
+                "rankscore": 2048,
+                "wins": 246,
+                "losses": 248
+            },
+            {
                 "queueType": "RANKED_SOLO_5x5",
                 "tier": "EMERALD",
                 "rank": "IV",
@@ -15,15 +24,6 @@
                 "rankscore": 2490,
                 "wins": 108,
                 "losses": 89
-            },
-            {
-                "queueType": "RANKED_FLEX_SR",
-                "tier": "PLATINUM",
-                "rank": "IV",
-                "leaguePoints": 12,
-                "rankscore": 2012,
-                "wins": 245,
-                "losses": 248
             },
             {
                 "queueType": "RANKED_PREMADE_5x5",
@@ -35,7 +35,7 @@
                 "losses": 5
             }
         ],
-        "mastery_score": 653,
+        "mastery_score": 654,
         "champion_mastery": [
             {
                 "championId": 223,
@@ -73,15 +73,6 @@
         "summoner_icon": 4499,
         "ranks": [
             {
-                "queueType": "RANKED_FLEX_SR",
-                "tier": "PLATINUM",
-                "rank": "III",
-                "leaguePoints": 49,
-                "rankscore": 2149,
-                "wins": 135,
-                "losses": 120
-            },
-            {
                 "queueType": "RANKED_PREMADE_5x5",
                 "tier": "GOLD",
                 "rank": "III",
@@ -89,6 +80,15 @@
                 "rankscore": 1726,
                 "wins": 5,
                 "losses": 3
+            },
+            {
+                "queueType": "RANKED_FLEX_SR",
+                "tier": "PLATINUM",
+                "rank": "III",
+                "leaguePoints": 70,
+                "rankscore": 2170,
+                "wins": 136,
+                "losses": 120
             },
             {
                 "queueType": "RANKED_SOLO_5x5",
@@ -250,15 +250,6 @@
         "summoner_icon": 7154,
         "ranks": [
             {
-                "queueType": "RANKED_SOLO_5x5",
-                "tier": "SILVER",
-                "rank": "III",
-                "leaguePoints": 14,
-                "rankscore": 1314,
-                "wins": 179,
-                "losses": 190
-            },
-            {
                 "queueType": "RANKED_FLEX_SR",
                 "tier": "BRONZE",
                 "rank": "I",
@@ -266,6 +257,15 @@
                 "rankscore": 1149,
                 "wins": 33,
                 "losses": 37
+            },
+            {
+                "queueType": "RANKED_SOLO_5x5",
+                "tier": "SILVER",
+                "rank": "III",
+                "leaguePoints": 14,
+                "rankscore": 1314,
+                "wins": 179,
+                "losses": 190
             }
         ],
         "mastery_score": 219,
@@ -318,9 +318,9 @@
                 "queueType": "RANKED_FLEX_SR",
                 "tier": "SILVER",
                 "rank": "IV",
-                "leaguePoints": 5,
-                "rankscore": 1205,
-                "wins": 189,
+                "leaguePoints": 22,
+                "rankscore": 1222,
+                "wins": 190,
                 "losses": 207
             }
         ],
@@ -344,7 +344,7 @@
             {
                 "championId": 245,
                 "championLevel": 14,
-                "championPoints": 127564
+                "championPoints": 128912
             },
             {
                 "championId": 35,

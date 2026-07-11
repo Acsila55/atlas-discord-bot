@@ -195,7 +195,7 @@ class LolCog(commands.GroupCog, BaseCog, name="lol", description="League of Lege
         await interaction.response.defer(ephemeral=True)
          
         account = LolAccount(name=username, tag=tag)
-        await asyncio.to_thread(account.update)
+        await account.update_all()
         
         if not account.puuid:
             await interaction.followup.send("⚠️ Nem találtam ilyen fiókot!")
@@ -219,7 +219,7 @@ class LolCog(commands.GroupCog, BaseCog, name="lol", description="League of Lege
         db_data = self.database[discord_id]
         account = LolAccount(name=db_data.get("name"), tag=db_data.get("tag"))
         
-        await asyncio.to_thread(account.update)
+        await account.update_all()
         self.database[discord_id] = account.json()
         self.save_json(self.database_path, self.database)
 
