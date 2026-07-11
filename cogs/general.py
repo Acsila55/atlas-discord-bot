@@ -4,14 +4,9 @@ import discord
 from discord.ext import commands
 from discord import app_commands
 
-class GeneralCog(commands.Cog, name="general", description="Random parancsok gyűjteménye."):
-    def __init__(self, bot: commands.Bot):
-        """Initializes the GeneralCog.
-        
-        Args:
-            bot (commands.Bot): The main bot instance.
-        """
-        self.bot = bot
+from cogs.base import BaseCog
+
+class GeneralCog(BaseCog, name="general", description="Random parancsok gyűjteménye."):  
 
     @app_commands.command(name="edge", description="Cibálj meg egy embert. (Ne abuseold mert szétbaszlak)")
     @app_commands.default_permissions(move_members=True)
@@ -24,7 +19,7 @@ class GeneralCog(commands.Cog, name="general", description="Random parancsok gy�
             n (int): The number of times to move the user.
         """
         # Check if the command can be started.
-        if not await self.__check_edge_conditions(interaction, member, n):
+        if not await self.check_edge_conditions(interaction, member, n):
             return
         
         await interaction.response.defer(ephemeral=True)
@@ -53,7 +48,7 @@ class GeneralCog(commands.Cog, name="general", description="Random parancsok gy�
                 
         await interaction.followup.send(f"✅ **{member.display_name}** meg lett cibálva.", ephemeral=True)
 
-    async def __check_edge_conditions(self, interaction: discord.Interaction, member: discord.Member, n: int) -> bool:
+    async def check_edge_conditions(self, interaction: discord.Interaction, member: discord.Member, n: int) -> bool:
         """Validates the conditions before executing the edge command.
 
         Args:

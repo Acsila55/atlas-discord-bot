@@ -16,14 +16,13 @@ class AtlasBot(commands.Bot):
         Also defines the list of cogs to be loaded during startup.
         """
         super().__init__(
-            command_prefix="!",  # Prefix for legacy commands (Not used)
-            intents=discord.Intents.all(),  # Permissions (Currently all)
-            case_insensitive=True,  # Ignores casing for legacy commands
-            activity=discord.CustomActivity(name="Just Gooning"),  # Initial activity
-            status=discord.Status.online  # Initial online presence status
+            command_prefix="!",  
+            intents=discord.Intents.all(), 
+            case_insensitive=True,  
+            activity=discord.CustomActivity(name="Just Gooning"),  
+            status=discord.Status.online  
         )
 
-        # List of extension modules (cogs)
         self.cogs_list = [
             "cogs.logging",
             "cogs.admin",
@@ -38,12 +37,9 @@ class AtlasBot(commands.Bot):
         """
         print("Loading Bot Commands...")
         
-        # Loads the defined extensions.
         for cog in self.cogs_list:
             await self.load_extension(cog)
-            print(f" -> Loaded {cog}")
         
-        # Syncs the slash commands with discord.
         await self.tree.sync() 
 
         print("Bot Commands Loaded & Synced!")
@@ -54,12 +50,10 @@ class AtlasBot(commands.Bot):
 
 
 if __name__ == "__main__":
-    # Validate Token
     load_dotenv()
     TOKEN = os.getenv("DISCORD_TOKEN")
     if not TOKEN:
         raise ValueError("DISCORD_TOKEN not found.")
 
-    # Run Bot
     bot = AtlasBot()
     bot.run(TOKEN)
