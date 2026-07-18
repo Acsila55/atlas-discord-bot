@@ -1,6 +1,6 @@
-# Security Files
 .env
 
-# Compliled Files
-*__pycache__
+# Compiled Files
+*__pycache__*
+*.py[cod]
 
