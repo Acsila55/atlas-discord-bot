@@ -148,9 +148,9 @@ class LolCog(commands.GroupCog, BaseCog, name="lol", description="League of Lege
                 text += f"**{i}. {name}**`{val}`\n\n"
             return text
 
-        embed.add_field(name="Solo / Duo", value=format_list(solo_entries, "solo_display") or "No data", inline=True)
-        embed.add_field(name="Flex", value=format_list(flex_entries, "flex_display") or "No data", inline=True)
-        embed.add_field(name="5v5", value=format_list(fivestack_entries, "fivestack_display") or "No data", inline=True)
+        embed.add_field(name="**Solo / Duo**", value=format_list(solo_entries, "solo_display") or "No data", inline=True)
+        embed.add_field(name="**Flex**", value=format_list(flex_entries, "flex_display") or "No data", inline=True)
+        embed.add_field(name="**5v5**", value=format_list(fivestack_entries, "fivestack_display") or "No data", inline=True)
 
         return embed
     

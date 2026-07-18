@@ -1,1 +1,6 @@
+# Security Files
 .env
+
+# Compliled Files
+*__pycache__
+
