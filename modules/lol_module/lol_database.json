@@ -4,17 +4,17 @@
         "tag": "EUNE",
         "region": "eun1",
         "puuid": "Xj44AxeZhyjTGD8MG1yALB2Qxmg_jU8q-a7odrutjViW5p5igvt4AjJX0I3Hgdoe9TtHl3iYiff9DA",
-        "summoner_level": 290,
+        "summoner_level": 292,
         "summoner_icon": 7143,
         "ranks": [
             {
-                "queueType": "RANKED_PREMADE_5x5",
-                "tier": "GOLD",
-                "rank": "II",
-                "leaguePoints": 97,
-                "rankscore": 1897,
-                "wins": 4,
-                "losses": 6
+                "queueType": "RANKED_FLEX_SR",
+                "tier": "PLATINUM",
+                "rank": "III",
+                "leaguePoints": 70,
+                "rankscore": 2170,
+                "wins": 256,
+                "losses": 252
             },
             {
                 "queueType": "RANKED_SOLO_5x5",
@@ -26,16 +26,16 @@
                 "losses": 89
             },
             {
-                "queueType": "RANKED_FLEX_SR",
-                "tier": "PLATINUM",
-                "rank": "III",
-                "leaguePoints": 5,
-                "rankscore": 2105,
-                "wins": 249,
-                "losses": 248
+                "queueType": "RANKED_PREMADE_5x5",
+                "tier": "GOLD",
+                "rank": "I",
+                "leaguePoints": 81,
+                "rankscore": 1981,
+                "wins": 8,
+                "losses": 10
             }
         ],
-        "mastery_score": 654,
+        "mastery_score": 658,
         "champion_mastery": [
             {
                 "championId": 223,
@@ -45,17 +45,17 @@
             {
                 "championId": 234,
                 "championLevel": 18,
-                "championPoints": 172767
+                "championPoints": 174186
             },
             {
                 "championId": 154,
                 "championLevel": 18,
-                "championPoints": 172229
+                "championPoints": 173869
             },
             {
                 "championId": 36,
                 "championLevel": 17,
-                "championPoints": 156595
+                "championPoints": 158230
             },
             {
                 "championId": 20,
@@ -69,18 +69,9 @@
         "tag": "EUNE",
         "region": "eun1",
         "puuid": "o5GE1K4z9aqeZOnIJPYiilZDkQAcWvo1p-DHCS2Yi51U3sv6JxelP1uIdWQTybwM6qyRPYfmQbBcQA",
-        "summoner_level": 356,
+        "summoner_level": 360,
         "summoner_icon": 4499,
         "ranks": [
-            {
-                "queueType": "RANKED_PREMADE_5x5",
-                "tier": "GOLD",
-                "rank": "III",
-                "leaguePoints": 1,
-                "rankscore": 1701,
-                "wins": 5,
-                "losses": 4
-            },
             {
                 "queueType": "RANKED_SOLO_5x5",
                 "tier": "GOLD",
@@ -91,31 +82,40 @@
                 "losses": 17
             },
             {
+                "queueType": "RANKED_PREMADE_5x5",
+                "tier": "GOLD",
+                "rank": "II",
+                "leaguePoints": 48,
+                "rankscore": 1848,
+                "wins": 9,
+                "losses": 8
+            },
+            {
                 "queueType": "RANKED_FLEX_SR",
                 "tier": "PLATINUM",
                 "rank": "II",
-                "leaguePoints": 35,
-                "rankscore": 2235,
-                "wins": 139,
-                "losses": 120
+                "leaguePoints": 59,
+                "rankscore": 2259,
+                "wins": 144,
+                "losses": 125
             }
         ],
-        "mastery_score": 667,
+        "mastery_score": 670,
         "champion_mastery": [
             {
                 "championId": 103,
                 "championLevel": 14,
-                "championPoints": 122551
+                "championPoints": 128537
             },
             {
                 "championId": 134,
                 "championLevel": 13,
-                "championPoints": 112919
+                "championPoints": 113746
             },
             {
                 "championId": 887,
                 "championLevel": 10,
-                "championPoints": 76198
+                "championPoints": 76944
             },
             {
                 "championId": 61,
@@ -125,7 +125,7 @@
             {
                 "championId": 51,
                 "championLevel": 9,
-                "championPoints": 66482
+                "championPoints": 67284
             }
         ]
     },
@@ -134,53 +134,53 @@
         "tag": "SA7",
         "region": "eun1",
         "puuid": "CSH_R9c-qpP3rCJYkpvd1NYPpj715akXbWke1V0veeJtq2vbaBU66hQpW6-W01AeZ0UX06rhKVBvRQ",
-        "summoner_level": 1025,
-        "summoner_icon": 508,
+        "summoner_level": 1031,
+        "summoner_icon": 4982,
         "ranks": [
             {
                 "queueType": "RANKED_FLEX_SR",
                 "tier": "DIAMOND",
                 "rank": "IV",
-                "leaguePoints": 15,
-                "rankscore": 2815,
-                "wins": 169,
-                "losses": 175
+                "leaguePoints": 29,
+                "rankscore": 2829,
+                "wins": 177,
+                "losses": 183
             },
             {
                 "queueType": "RANKED_PREMADE_5x5",
                 "tier": "EMERALD",
-                "rank": "IV",
-                "leaguePoints": 51,
-                "rankscore": 2451,
-                "wins": 4,
-                "losses": 4
+                "rank": "II",
+                "leaguePoints": 52,
+                "rankscore": 2652,
+                "wins": 9,
+                "losses": 8
             },
             {
                 "queueType": "RANKED_SOLO_5x5",
                 "tier": "DIAMOND",
-                "rank": "IV",
-                "leaguePoints": 91,
-                "rankscore": 2891,
-                "wins": 42,
-                "losses": 34
+                "rank": "III",
+                "leaguePoints": 31,
+                "rankscore": 2931,
+                "wins": 46,
+                "losses": 36
             }
         ],
-        "mastery_score": 1375,
+        "mastery_score": 1381,
         "champion_mastery": [
             {
                 "championId": 133,
                 "championLevel": 135,
-                "championPoints": 1455279
+                "championPoints": 1461541
             },
             {
                 "championId": 222,
-                "championLevel": 126,
-                "championPoints": 1361235
+                "championLevel": 127,
+                "championPoints": 1363467
             },
             {
                 "championId": 555,
                 "championLevel": 80,
-                "championPoints": 854130
+                "championPoints": 856481
             },
             {
                 "championId": 26,
@@ -190,7 +190,7 @@
             {
                 "championId": 40,
                 "championLevel": 36,
-                "championPoints": 369488
+                "championPoints": 371828
             }
         ]
     },
@@ -199,30 +199,53 @@
         "tag": "4920",
         "region": "eun1",
         "puuid": "HmbMjoN1NALVxbk9KxL6ojUq1Xiay7iBUs2OgYNNCZ6sdY_Ja1CbyRR7IbGeylrwBdSF80NNBoyvsQ",
-        "summoner_level": 178,
+        "summoner_level": 182,
         "summoner_icon": 7,
         "ranks": [
             {
                 "queueType": "RANKED_FLEX_SR",
                 "tier": "IRON",
+                "rank": "III",
+                "leaguePoints": 3,
+                "rankscore": 503,
+                "wins": 118,
+                "losses": 159
+            },
+            {
+                "queueType": "RANKED_PREMADE_5x5",
+                "tier": "BRONZE",
                 "rank": "IV",
-                "leaguePoints": 0,
-                "rankscore": 400,
-                "wins": 109,
-                "losses": 153
+                "leaguePoints": 50,
+                "rankscore": 850,
+                "wins": 2,
+                "losses": 3
+            },
+            {
+                "queueType": "RANKED_SOLO_5x5",
+                "tier": "BRONZE",
+                "rank": "II",
+                "leaguePoints": 65,
+                "rankscore": 1065,
+                "wins": 4,
+                "losses": 3
             }
         ],
-        "mastery_score": 439,
+        "mastery_score": 448,
         "champion_mastery": [
+            {
+                "championId": 234,
+                "championLevel": 9,
+                "championPoints": 67862
+            },
             {
                 "championId": 19,
                 "championLevel": 9,
                 "championPoints": 67086
             },
             {
-                "championId": 234,
-                "championLevel": 9,
-                "championPoints": 65135
+                "championId": 166,
+                "championLevel": 8,
+                "championPoints": 54927
             },
             {
                 "championId": 777,
@@ -233,11 +256,6 @@
                 "championId": 11,
                 "championLevel": 7,
                 "championPoints": 53520
-            },
-            {
-                "championId": 166,
-                "championLevel": 7,
-                "championPoints": 53361
             }
         ]
     },
@@ -246,54 +264,54 @@
         "tag": "gojo",
         "region": "eun1",
         "puuid": "l6GYssdGD-xzfzztp6xt25ALp6pdULW5Dc9tC_Jp8qbCXlEGy6MZMfDdNhdssZcAspPG_5Sq8Ky9EQ",
-        "summoner_level": 115,
+        "summoner_level": 120,
         "summoner_icon": 7154,
         "ranks": [
             {
                 "queueType": "RANKED_SOLO_5x5",
                 "tier": "SILVER",
                 "rank": "III",
-                "leaguePoints": 14,
-                "rankscore": 1314,
-                "wins": 179,
-                "losses": 190
+                "leaguePoints": 31,
+                "rankscore": 1331,
+                "wins": 192,
+                "losses": 202
             },
             {
                 "queueType": "RANKED_FLEX_SR",
-                "tier": "BRONZE",
-                "rank": "I",
-                "leaguePoints": 49,
-                "rankscore": 1149,
-                "wins": 33,
-                "losses": 37
+                "tier": "SILVER",
+                "rank": "III",
+                "leaguePoints": 14,
+                "rankscore": 1314,
+                "wins": 50,
+                "losses": 47
             }
         ],
-        "mastery_score": 219,
+        "mastery_score": 228,
         "champion_mastery": [
             {
                 "championId": 893,
-                "championLevel": 16,
-                "championPoints": 152108
+                "championLevel": 17,
+                "championPoints": 158824
             },
             {
                 "championId": 22,
                 "championLevel": 16,
-                "championPoints": 142547
+                "championPoints": 148472
             },
             {
                 "championId": 910,
-                "championLevel": 13,
-                "championPoints": 115172
+                "championLevel": 14,
+                "championPoints": 128294
+            },
+            {
+                "championId": 51,
+                "championLevel": 11,
+                "championPoints": 86873
             },
             {
                 "championId": 99,
                 "championLevel": 10,
-                "championPoints": 81521
-            },
-            {
-                "championId": 51,
-                "championLevel": 10,
-                "championPoints": 81305
+                "championPoints": 84568
             }
         ]
     },
@@ -302,49 +320,49 @@
         "tag": "EUNE",
         "region": "eun1",
         "puuid": "NJibyxMQi2QJBjOfi7VjHLhTAon__64fo1e_AzBF17ns1LOEgLYZ_1u4FhCSUQPNjOy3eyF_e2E9ww",
-        "summoner_level": 358,
-        "summoner_icon": 6301,
+        "summoner_level": 365,
+        "summoner_icon": 6,
         "ranks": [
-            {
-                "queueType": "RANKED_SOLO_5x5",
-                "tier": "SILVER",
-                "rank": "II",
-                "leaguePoints": 9,
-                "rankscore": 1409,
-                "wins": 207,
-                "losses": 213
-            },
             {
                 "queueType": "RANKED_FLEX_SR",
                 "tier": "SILVER",
-                "rank": "IV",
+                "rank": "III",
                 "leaguePoints": 22,
-                "rankscore": 1222,
-                "wins": 190,
-                "losses": 207
+                "rankscore": 1322,
+                "wins": 205,
+                "losses": 216
+            },
+            {
+                "queueType": "RANKED_SOLO_5x5",
+                "tier": "GOLD",
+                "rank": "IV",
+                "leaguePoints": 3,
+                "rankscore": 1603,
+                "wins": 230,
+                "losses": 229
             }
         ],
-        "mastery_score": 681,
+        "mastery_score": 693,
         "champion_mastery": [
             {
                 "championId": 50,
                 "championLevel": 30,
-                "championPoints": 295721
+                "championPoints": 300272
             },
             {
                 "championId": 141,
                 "championLevel": 22,
-                "championPoints": 210347
+                "championPoints": 216055
             },
             {
                 "championId": 555,
-                "championLevel": 18,
-                "championPoints": 168179
+                "championLevel": 19,
+                "championPoints": 175185
             },
             {
                 "championId": 245,
                 "championLevel": 14,
-                "championPoints": 128912
+                "championPoints": 130342
             },
             {
                 "championId": 35,
@@ -358,16 +376,16 @@
         "tag": "prime",
         "region": "eun1",
         "puuid": "vCZZFFFpATNmfjjVmDzrr5AvQ8Twzf-3u7Qg9RAgAYZmPv9mVZDGLWVavzQE8INcD1jnXsTGd9BcMA",
-        "summoner_level": 287,
+        "summoner_level": 288,
         "summoner_icon": 1374,
         "ranks": [
             {
                 "queueType": "RANKED_FLEX_SR",
                 "tier": "PLATINUM",
-                "rank": "III",
-                "leaguePoints": 61,
-                "rankscore": 2161,
-                "wins": 166,
+                "rank": "II",
+                "leaguePoints": 65,
+                "rankscore": 2265,
+                "wins": 171,
                 "losses": 174
             },
             {
@@ -380,7 +398,7 @@
                 "losses": 12
             }
         ],
-        "mastery_score": 580,
+        "mastery_score": 581,
         "champion_mastery": [
             {
                 "championId": 234,
@@ -389,8 +407,8 @@
             },
             {
                 "championId": 14,
-                "championLevel": 17,
-                "championPoints": 161190
+                "championLevel": 18,
+                "championPoints": 165726
             },
             {
                 "championId": 202,
@@ -400,7 +418,7 @@
             {
                 "championId": 161,
                 "championLevel": 11,
-                "championPoints": 86769
+                "championPoints": 88463
             },
             {
                 "championId": 35,
@@ -420,10 +438,10 @@
             {
                 "queueType": "RANKED_FLEX_SR",
                 "tier": "PLATINUM",
-                "rank": "IV",
-                "leaguePoints": 82,
-                "rankscore": 2082,
-                "wins": 85,
+                "rank": "III",
+                "leaguePoints": 4,
+                "rankscore": 2104,
+                "wins": 86,
                 "losses": 80
             },
             {
@@ -434,6 +452,15 @@
                 "rankscore": 1434,
                 "wins": 10,
                 "losses": 14
+            },
+            {
+                "queueType": "RANKED_PREMADE_5x5",
+                "tier": "GOLD",
+                "rank": "II",
+                "leaguePoints": 75,
+                "rankscore": 1875,
+                "wins": 8,
+                "losses": 4
             }
         ],
         "mastery_score": 772,
@@ -470,39 +497,39 @@
         "tag": "EUNE",
         "region": "eun1",
         "puuid": "9xQ5leQ2mKjLUCHCsZSxLVv3XiesJyUIybCRibBD6EHG3E011NBrIqwpVQxaADLqYNwZZvF4mralMg",
-        "summoner_level": 252,
+        "summoner_level": 253,
         "summoner_icon": 4406,
         "ranks": [
-            {
-                "queueType": "RANKED_SOLO_5x5",
-                "tier": "GOLD",
-                "rank": "IV",
-                "leaguePoints": 6,
-                "rankscore": 1606,
-                "wins": 39,
-                "losses": 25
-            },
             {
                 "queueType": "RANKED_FLEX_SR",
                 "tier": "SILVER",
                 "rank": "II",
-                "leaguePoints": 79,
-                "rankscore": 1479,
-                "wins": 50,
-                "losses": 42
+                "leaguePoints": 59,
+                "rankscore": 1459,
+                "wins": 51,
+                "losses": 44
+            },
+            {
+                "queueType": "RANKED_SOLO_5x5",
+                "tier": "GOLD",
+                "rank": "IV",
+                "leaguePoints": 21,
+                "rankscore": 1621,
+                "wins": 40,
+                "losses": 27
             }
         ],
-        "mastery_score": 469,
+        "mastery_score": 470,
         "champion_mastery": [
             {
                 "championId": 238,
                 "championLevel": 24,
-                "championPoints": 236626
+                "championPoints": 237341
             },
             {
                 "championId": 84,
                 "championLevel": 11,
-                "championPoints": 91124
+                "championPoints": 92865
             },
             {
                 "championId": 35,
@@ -511,13 +538,13 @@
             },
             {
                 "championId": 202,
-                "championLevel": 9,
-                "championPoints": 75513
+                "championLevel": 10,
+                "championPoints": 76927
             },
             {
                 "championId": 157,
                 "championLevel": 9,
-                "championPoints": 72338
+                "championPoints": 73189
             }
         ]
     },
@@ -526,25 +553,34 @@
         "tag": "7072",
         "region": "eun1",
         "puuid": "j_uuJSqKkOiivfLKlh1K5afFcbqhb6IqaciUoJTqRtxGinT1dliJCrtoYFodx3IwKfy1xUNPUJpR5A",
-        "summoner_level": 915,
+        "summoner_level": 920,
         "summoner_icon": 1385,
         "ranks": [
             {
                 "queueType": "RANKED_FLEX_SR",
                 "tier": "DIAMOND",
-                "rank": "II",
-                "leaguePoints": 85,
-                "rankscore": 3085,
-                "wins": 50,
-                "losses": 58
+                "rank": "I",
+                "leaguePoints": 10,
+                "rankscore": 3110,
+                "wins": 53,
+                "losses": 60
+            },
+            {
+                "queueType": "RANKED_PREMADE_5x5",
+                "tier": "EMERALD",
+                "rank": "I",
+                "leaguePoints": 1,
+                "rankscore": 2701,
+                "wins": 4,
+                "losses": 2
             }
         ],
-        "mastery_score": 1244,
+        "mastery_score": 1250,
         "champion_mastery": [
             {
                 "championId": 101,
-                "championLevel": 47,
-                "championPoints": 492665
+                "championLevel": 48,
+                "championPoints": 494277
             },
             {
                 "championId": 90,
@@ -554,12 +590,12 @@
             {
                 "championId": 238,
                 "championLevel": 27,
-                "championPoints": 294105
+                "championPoints": 295857
             },
             {
                 "championId": 112,
                 "championLevel": 26,
-                "championPoints": 256690
+                "championPoints": 260248
             },
             {
                 "championId": 45,
@@ -573,18 +609,9 @@
         "tag": "8407",
         "region": "eun1",
         "puuid": "15KUKONYnRBm2xEfavKz6JNPksGyBvxvO_aJO_YoEMuiLV-_pSgEpA496lzXABwLE6QO6bdYO2KkFw",
-        "summoner_level": 196,
+        "summoner_level": 197,
         "summoner_icon": 6107,
         "ranks": [
-            {
-                "queueType": "RANKED_SOLO_5x5",
-                "tier": "SILVER",
-                "rank": "II",
-                "leaguePoints": 35,
-                "rankscore": 1435,
-                "wins": 3,
-                "losses": 4
-            },
             {
                 "queueType": "RANKED_FLEX_SR",
                 "tier": "GOLD",
@@ -593,14 +620,23 @@
                 "rankscore": 1876,
                 "wins": 27,
                 "losses": 17
+            },
+            {
+                "queueType": "RANKED_SOLO_5x5",
+                "tier": "SILVER",
+                "rank": "II",
+                "leaguePoints": 35,
+                "rankscore": 1435,
+                "wins": 3,
+                "losses": 4
             }
         ],
-        "mastery_score": 379,
+        "mastery_score": 384,
         "champion_mastery": [
             {
                 "championId": 40,
-                "championLevel": 13,
-                "championPoints": 118659
+                "championLevel": 14,
+                "championPoints": 120015
             },
             {
                 "championId": 60,
@@ -615,12 +651,12 @@
             {
                 "championId": 267,
                 "championLevel": 9,
-                "championPoints": 70322
+                "championPoints": 72404
             },
             {
-                "championId": 25,
+                "championId": 111,
                 "championLevel": 9,
-                "championPoints": 66229
+                "championPoints": 68355
             }
         ]
     }

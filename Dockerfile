@@ -26,10 +26,12 @@ WORKDIR /app
 
 # Copy only the installed packages from the builder stage
 COPY --from=builder /root/.local /root/.local
-COPY . .
 
 # Update Path
 ENV PATH=/root/.local/bin:$PATH
+
+# Copy everything else
+COPY . .
 
 # Run as a non-root user for security
 RUN useradd -m botuser

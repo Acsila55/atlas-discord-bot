@@ -1,3 +1,7 @@
+# Atlas Discord Bot
+
+## A fun discord bot for your server
+
 How to run the Bot: 
 py main.py
 
